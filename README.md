@@ -1,7 +1,8 @@
 # Tableau-Dashboard-Meeting-Business-Requirements
 [Tableau Link](https://public.tableau.com/views/DentalPharmaProject_16735263260110/DentalPharmaProjects?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-![image]
+![Dental Pharma Projects](https://github.com/gioves28/Tableau-Dashboard-Meeting-Business-Requirements/assets/131261225/38e03379-6ffa-4b00-b8a6-abee620fda13)
+
 
 ## Busisness Requirements for Dental Pharma
 - Show which projects are running/have run in which countries.
